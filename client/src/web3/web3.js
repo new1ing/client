@@ -1,4 +1,4 @@
-import * as CAPI from "cryptosea-api";
+import * as CAPI from "@cryptosea/api";
 
 const api = CAPI.new(window.ethereum);
 
